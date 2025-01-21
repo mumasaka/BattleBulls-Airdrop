@@ -5,6 +5,6 @@ Download: https://drive.google.com/file/d/1ZV5lypx1fP8Fj7svHatHmnjquGv-1PoP/view
 
 *using query_id
 # Feature
-+Auto claim
-+Auto upgrade card(hourly profit optimization)
-+Auto complete all task
++ Auto claim
++ Auto upgrade card(hourly profit optimization)
++ Auto complete all task
