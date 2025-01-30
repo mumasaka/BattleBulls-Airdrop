@@ -2,7 +2,6 @@
 
 Tool auto battle bulls airdrop
 
-
 Download: https://drive.google.com/file/d/1r9NDqElE6_5Yrq11VVWNcAheojPwaxMd/view?usp=sharing
 
 * use query_id
